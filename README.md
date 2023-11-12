@@ -1,3 +1,3 @@
-# jsTree-htmlTable
+# my first react
 
-converts tree from jsTree to html-table
+replace src folder in your new project in React
