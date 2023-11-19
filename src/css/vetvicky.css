@@ -1,0 +1,46 @@
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+    width: 10px;
+}
+
+td
+{
+    left: 10px;
+    white-space: nowrap;
+}
+
+
+.tree{
+    width: 0px;
+}
+
+.row{
+   left:0px;
+}
+
+.tableOdbocky
+{
+    width: 10px;
+    height: 40px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+    left: 0px;
+    float:left;
+}
+
+
+.fill{
+    background-color: green;
+}
+
+.empty{
+    background-color: white;
+}
+
+.butt{
+    background-color: red;
+}
+
+
